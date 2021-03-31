@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\实验（学习）报告\C++ Primer Plus\c11_2\main.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vector_c11_2.cpp
+  正在生成代码...
+  c11_2.vcxproj -> D:\实验（学习）报告\C++ Primer Plus\c11_2\Debug\c11_2.exe
