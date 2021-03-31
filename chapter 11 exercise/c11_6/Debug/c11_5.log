@@ -1,0 +1,9 @@
+﻿E:\vs 2019\vs 2019 pro\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(c11_5.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  stonewt_c11_6.cpp
+D:\实验（学习）报告\C++ Primer Plus\chapter 11 exercises\c11_6\stonewt_c11_6.cpp(22,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\实验（学习）报告\C++ Primer Plus\chapter 11 exercises\c11_6\stonewt_c11_6.cpp(35,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\实验（学习）报告\C++ Primer Plus\chapter 11 exercises\c11_6\stonewt_c11_6.cpp(45,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\实验（学习）报告\C++ Primer Plus\chapter 11 exercises\c11_6\stonewt_c11_6.cpp(55,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  c11_5.vcxproj -> D:\实验（学习）报告\C++ Primer Plus\chapter 11 exercises\c11_6\Debug\c11_6.exe
