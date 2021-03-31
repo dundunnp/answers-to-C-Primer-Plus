@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\实验（学习）报告\C++ Primer Plus\chapter 12 exercises\c12_5\main.cpp(16,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c12_5.vcxproj -> D:\实验（学习）报告\C++ Primer Plus\chapter 12 exercises\c12_5\Debug\c12_5.exe
